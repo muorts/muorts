@@ -1,8 +1,8 @@
 ## Hi, welcome to my profile 👋!
 <div>
-  📚 Information Systems Student at University of São Paulo.
-  💻 Focus on mobile/web Development.
-  🎯 Looking for intership opportunities.
+  📚 Information Systems Student at University of São Paulo. <br>
+  💻 Focus on mobile/web Development. <br>
+  🎯 Looking for intership opportunities. <br>
 </div>
 
 
