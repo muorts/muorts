@@ -9,9 +9,9 @@
   <a href="mailto:muortegapereira.07@gmaul.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <br>
 </div>
 
+<br>
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30" height="30">
