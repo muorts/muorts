@@ -1,4 +1,10 @@
 ## Hi, welcome to my profile 👋!
+<div>
+  📚 Information Systems Student at University of São Paulo.
+  💻 Focus on mobile/web Development.
+  🎯 Looking for intership opportunities.
+</div>
+
 
   ![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=muorts&show_icons=true&theme=dracula)
 
