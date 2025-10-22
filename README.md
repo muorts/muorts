@@ -1,7 +1,8 @@
 ## Hi, welcome to my profile 👋!
 
-<div> 
   ![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=muorts&show_icons=true&theme=dracula)
+
+<div> 
   <div>
     <a href="www.linkedin.com/in/murilo-ortega-67387b364" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
