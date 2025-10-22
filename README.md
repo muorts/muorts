@@ -1,7 +1,7 @@
 ## Hi, welcome to my profile 👋!
 
 
-<div align="center">
+<div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" width="30 height="30"">
   <img src="https://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png" width = "30" height="30">
