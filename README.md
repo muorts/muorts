@@ -1,6 +1,6 @@
 ## Hi, welcome to my profile 👋!
 
-![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
+![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=muorts&show_icons=true&theme=dracula)
 
 
 <div>
