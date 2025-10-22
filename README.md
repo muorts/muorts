@@ -1,6 +1,16 @@
 ## Hi, welcome to my profile 👋!
 
-![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=muorts&show_icons=true&theme=dracula)
+<div> 
+  ![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=muorts&show_icons=true&theme=dracula)
+  <div>
+    <a href="www.linkedin.com/in/murilo-ortega-67387b364" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:muortegapereira.07@gmaul.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  </div>
+</div>
 
 
 <div>
