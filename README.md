@@ -23,7 +23,7 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" width="30 height="30"">
-  <img src="https://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png" width = "30" height="30">
+  <img src="https://img.icons8.com/color/600/c-programming.png" width = "30" height="30">
   <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" width="30" height="30">
   <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" width="30" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30" height="30">
